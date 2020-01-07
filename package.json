@@ -1,0 +1,11 @@
+{
+  "name": "snakey",
+  "version": "1.0.0",
+  "description": "simple snake game with no frameworks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mplayer78",
+  "license": "ISC"
+}
